@@ -16,6 +16,7 @@
 //         but doesn't solve the original issue.
 //         There must be a way to add "global::NUnit..." in the generated Feature1.feature.cs file.
 //
+//   REF:  Related issue on GitHub: https://github.com/SpecFlowOSS/SpecFlow/issues/2376
 namespace CompanyName.ComponentX.NUnit;
 
 [TestFixture]
